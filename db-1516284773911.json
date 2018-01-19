@@ -1,0 +1,13 @@
+{
+  "tests": [
+    {
+      "id": 1,
+      "title": "Где в документе может располагаться тэг script по стандарту HTML ?",
+      "answer1": "Только в HEAD",
+      "answer2": "Только в BODY",
+      "answer3": "В HEAD или в BODY",
+      "answer 4": "Где угодно, главное чтоб был",
+      "correctAnswer": "В HEAD или в BODY"
+    }
+  ]
+}
